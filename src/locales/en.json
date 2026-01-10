@@ -319,7 +319,7 @@
             "refundVerify": "Have you verified the refund was successful in the Linux DO Credit dashboard?",
             "refundSuccess": "Order marked as refunded",
             "refundInfo": "After verifying the refund was successful, click 'Mark Refunded'",
-            "refundVerify": "Have you confirmed on the payment platform that the refund is complete?",
+            "refundVerifyPlatform": "Have you confirmed on the payment platform that the refund is complete?",
             "checkStatus": "Check Status",
             "verifySuccessRefunded": "Refund verified successfully!",
             "verifyInfoPaid": "Verified: Order is Paid (Active).",
